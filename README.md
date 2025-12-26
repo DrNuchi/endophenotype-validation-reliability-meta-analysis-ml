@@ -1,2 +1,2 @@
-# endophenotype-validation-reliability-meta-analysis-ml
-Statistical and machine learning framework for assessing inter-rater reliability, meta-analytic validation proportions, and predictors of perfect validation scores using R.
+This repository implements a comprehensive validation framework combining inter-rater reliability analysis, random-effects meta-analysis, meta-regression, sensitivity diagnostics, and machine learning to evaluate ordinal validation scores across studies. Methods include unweighted and weighted Cohen’s Kappa, logistic meta-analysis with REML estimation, influence diagnostics, and random forest models for predicting perfect validation scores, all implemented in R.
+Article link: https://doi.org/10.3390/brainsci15121275
